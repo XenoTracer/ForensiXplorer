@@ -1,0 +1,20 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "ForensiXplorer - Project Of CyberSecurity",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx serve . -p 3000",
+    "build": "echo 'No build process required for static files'",
+    "start": "npx serve . -p 3000"
+  },
+  "keywords": [
+    "cybersecurity",
+    "forensics"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
